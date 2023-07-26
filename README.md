@@ -1,6 +1,6 @@
 # HMC_v3
 
-delete scale option\\
-Three modes\\
-positive ratio report\\
-truncated normal
+<br>delete scale option 
+<br> Three modes
+<br>positive ratio report\\
+<br>truncated normal
